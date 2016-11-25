@@ -1,0 +1,7 @@
+name: test_kasper
+version: 0.0.1
+description: A simple console application.
+
+dependencies:
+  jaguar_serializer:
+    git: git@github.com:Jaguar-dart/jaguar_serializer.git
